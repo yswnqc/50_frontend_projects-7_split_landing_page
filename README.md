@@ -4,7 +4,7 @@
 
 [DEMO](https://yswnqc.github.io/50_frontend_projects-7_split_landing_page/) here.
 
-### Make a little difference.
+### Make a little difference
 
 - Use CSS instead JS to animate
 
