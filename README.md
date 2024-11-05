@@ -6,12 +6,7 @@
 
 ### Make a little difference.
 
-- Infinite scroll down
-- Remove items when scrolling up
-
-### Need improve
-
-- Initial must have 5 items
+- Use CSS instead JS to animate
 
 From [50projects50days](https://50projects50days.com).
 
